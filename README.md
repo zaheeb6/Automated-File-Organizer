@@ -8,7 +8,6 @@ A Python script that automatically organizes files in a specified directory base
 - [Installation](#installation)
 - [Usage](#usage)
 - [How It Works](#how-it-works)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -58,15 +57,5 @@ Based on the extension, it moves the file into a corresponding subfolder (e.g., 
 If the destination subfolder doesn't exist, it creates one automatically.
 The script continues running in the background, organizing files in real-time.
 
-## Contributing
-- Contributions to improve the Automated File Organizer are welcome! Here's how you can contribute:
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make your changes and commit them with clear, descriptive messages.
-Push your changes to your fork.
-Submit a pull request to the main repository.
-Please ensure your code adheres to the project's coding standards and include tests if applicable.
-
 ## License
 - This project is licensed under the MIT License. See the LICENSE file for details.
-The MIT License is a permissive license that allows for reuse with few restrictions. It permits use, modification, and distribution of the code for both private and commercial
